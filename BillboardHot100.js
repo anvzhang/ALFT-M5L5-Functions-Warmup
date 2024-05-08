@@ -105,3 +105,4 @@ let topSongs = [
   "Selfish - Justin Timberlake"
 ];
 
+topSongs.forEach(s => console.log(s));

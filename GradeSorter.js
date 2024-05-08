@@ -6,3 +6,7 @@ All passing grades (65 or higher) should log to the console in one list, and the
 */
 
 let grades = [ 99,100,85,62,35,20,76,54,34,78,92,83,55,45,27,52,87,94,10,0,90,50,78];
+
+console.log(grades.filter(g => g < 65));
+
+console.log(grades.filter(g => g >= 65));
