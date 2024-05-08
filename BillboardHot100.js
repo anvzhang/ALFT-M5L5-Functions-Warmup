@@ -105,6 +105,3 @@ let topSongs = [
   "Selfish - Justin Timberlake"
 ];
 
-for (let i = 0; i < topSongs.length; i++){
-  console.log(topSongs[i]);
-}
